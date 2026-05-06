@@ -29,14 +29,18 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "L3 rocha" },
+      { name: "description", content: "Luxury landing page for premium marble and granite, designed for high-end clients and Google Ads traffic." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "L3 rocha" },
+      { property: "og:description", content: "Luxury landing page for premium marble and granite, designed for high-end clients and Google Ads traffic." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "L3 rocha" },
+      { name: "twitter:description", content: "Luxury landing page for premium marble and granite, designed for high-end clients and Google Ads traffic." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/577b269a-5fdc-4ae2-9d98-c1ff461aae10/id-preview-2620c8ab--60fd3aee-367e-445f-9be8-c1cc5101575d.lovable.app-1778079419267.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/577b269a-5fdc-4ae2-9d98-c1ff461aae10/id-preview-2620c8ab--60fd3aee-367e-445f-9be8-c1cc5101575d.lovable.app-1778079419267.png" },
     ],
     links: [
       {
